@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "firstname": "Bharat P",
+      "id": 1,
+      "lastname": "Joshi"
+    },
+    {
+      "firstname": "Shruti",
+      "lastname": "Bhosale",
+      "id": 2
+    },
+    {
+      "firstname": "Anvika",
+      "id": 3,
+      "lastname": "Joshi"
+    }
+],
+      "subjects": [
+        {
+          "name": "Python",
+          "id": 3
+        },
+        {
+          "name": "C#",
+          "id": 4
+        }
+      ]
+    
+  }
